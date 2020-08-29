@@ -2,7 +2,7 @@
 <h3 align="center">Ambitious full-stack developer in Sacramento CA</h3>
 
 - 🔭 I’m currently working on a social network site.
-- 🌱 I’m currently learning React and PWAs.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about static site generators.
 - 🌎 Check out my site: [chasejohnson.dev](chasejohnson.dev)
 - 📫 How to reach me: [hello@chasejohnson.dev](mailto:hello@chasejohnson.dev)
