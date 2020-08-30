@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a social network site.
 - 🌱 I’m currently learning React.
 - 💬 Ask me about static site generators.
-- 🌎 Check out my site: [chasejohnson.dev](https:chasejohnson.dev)
+- 🌎 Check out my site: [chasejohnson.dev](https://chasejohnson.dev)
 - 📫 How to reach me: [hello@chasejohnson.dev](mailto:hello@chasejohnson.dev)
 - ⚡ Fun fact: I once worked at Pixar Animation Studios as a PA!
 
