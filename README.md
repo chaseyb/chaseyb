@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Chase Johnson 👋</h1>
 <h3 align="center">Ambitious full-stack developer in Sacramento CA</h3>
 
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Python
 - 🌎 Check out my site: [chasejohnson.dev](https://chasejohnson.dev)
 - 📫 How to reach me: [hello@chasejohnson.dev](mailto:hello@chasejohnson.dev)
 
